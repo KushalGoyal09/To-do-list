@@ -1,0 +1,27 @@
+.fa-square-check {
+    color: cadetblue;
+}
+.fa-regular {
+    font-size: 2.5rem;
+}
+.fa-xmark {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 0, 0, 0.7);
+    padding: 0.2rem;
+    border-radius: 10px;
+}
+.fa-xmark:hover {
+    border: 2px solid rgba(255, 0, 0, 0.9);
+}
+.fa-xmark:active {
+    color: #333;
+    border: 2px solid #444;
+}
+#tasks {
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgba(255, 228, 196, 0.664);
+}

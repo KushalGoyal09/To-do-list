@@ -1,3 +1,4 @@
+
 .fa-square-check {
     color: cadetblue;
 }
@@ -20,7 +21,7 @@
     border: 2px solid #444;
 }
 #tasks {
-    width: 70%;
+    width: 75%;
     margin: auto;
     border-radius: 10px;
     background-color: rgba(255, 228, 196, 0.664);
